@@ -8,6 +8,8 @@ Community仓库用于管理OpenHarmony社区治理、开发者贡献指南、开
 
 - 社区治理组织架构
     - [项目管理委员会](/zh/pmc.md)
+- 社区治理规范
+    - [SoC分级保障准入标准](/zh/soc_tiered_guarantee.md)
 - [开发者社区贡献指南](https://gitcode.com/openharmony/docs/blob/master/zh-cn/contribute/Readme-CN.md)
 - [开发者社区贡献协议](https://dco.openharmony.io/sign/Z2l0ZWUlMkZPcGVuQXRvbQ==)
 - [社区交流](https://gitcode.com/openharmony/docs/blob/master/zh-cn/contribute/%E7%A4%BE%E5%8C%BA%E6%B2%9F%E9%80%9A%E4%B8%8E%E4%BA%A4%E6%B5%81.md)
