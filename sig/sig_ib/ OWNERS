@@ -10,8 +10,8 @@
         "gitee_id": "wenruizhu",
         "gitee_email": "wenruizhu_96@xauat.edu.cn"
     },{
-        "gitee_id": "songzhengwei11",
-        "gitee_email": "zhengweisong@xauat.edu.cn"
+        "gitcode_id": "songzhengwei",
+        "gitcode_email": "zhengweisong@xauat.edu.cn"
     },{
         "gitee_id": "yang-qian1126",
         "gitee_email": "yang1126@xauat.edu.cn"
@@ -21,5 +21,11 @@
     },{
         "gitee_id": "zhu-jiahui0911",
         "gitee_email": "Zhujh@xauat.edu.cn"
+    },{
+        "gitcode_id": "Riceh000G",
+        "gitcode_email": "gaojingyu@xauxt.edu.cn"
+    },{
+        "gitcode_id": "zhangchenglin",
+        "gitcode_email": "zhangchenglin@xauat.edu.cn"
     }]
 }
